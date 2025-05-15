@@ -1,0 +1,8 @@
+fastapi
+yfinance
+pandas
+celery
+redis
+pymongo
+matplotlib
+uvicorn
